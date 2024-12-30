@@ -1,6 +1,18 @@
+## Description
+
+Use Outlook email to receive Google Scholar Alert emails and parse them into an RSS feed.
+
+## Changelog
+
+- `2024-12-30`: You have to register for an [Azure](https://azure.microsoft.com/) account (free) to get started with Microsoft Entra ID.
+
+## Create an azure account
+
+- https://azure.microsoft.com/
+
 ## MS_GRAPH token (Outlook)
 
-注册应用：https://entra.microsoft.com/#home
+Creat app：https://entra.microsoft.com/#home
 
 ![img1](./doc/img1.png)
 ![img1](./doc/img2.png)
